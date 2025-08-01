@@ -46,6 +46,6 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardogdev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardogdev&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Eduardogdev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardogdev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>

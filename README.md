@@ -6,7 +6,7 @@
  ---
 
 ### Sobre mim
-#### Olá, sou Eduardo Souza, um entusiasta de tecnologia de 18 anos, curso Análise e Desenvolvimento de Sistemas, com um foco apaixonado em desenvolvimento backend, especialmente utilizando Java. Meu objetivo é construir sistemas robustos, escaláveis e eficientes, mergulhando em arquiteturas de servidores, APIs RESTful e bancos de dados relacionais. Estou no início da minha jornada, mas trago curiosidade e determinação para dominar o backend, explorando frameworks como Spring Boot e conceitos como microsserviços. Adoro resolver problemas complexos e estou sempre buscando aprender com a comunidade tech, seja por meio de código aberto ou colaboração com outros desenvolvedores.
+#### Olá, sou Eduardo Souza, um entusiasta de tecnologia de 19 anos, curso Análise e Desenvolvimento de Sistemas, com um foco apaixonado em desenvolvimento backend, especialmente utilizando Java. Meu objetivo é construir sistemas robustos, escaláveis e eficientes, mergulhando em arquiteturas de servidores, APIs RESTful e bancos de dados relacionais. Estou no início da minha jornada, mas trago curiosidade e determinação para dominar o backend, explorando frameworks como Spring Boot e conceitos como microsserviços. Adoro resolver problemas complexos e estou sempre buscando aprender com a comunidade tech, seja por meio de código aberto ou colaboração com outros desenvolvedores.
 
  - - -
  
